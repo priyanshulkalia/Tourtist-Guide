@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0077AB</color>
+    <color name="colorPrimaryDark">#074C75</color>
+    <color name="colorAccent">#fa15c481</color>
+    <color name="FontColor">#96040e</color>
+    <color name="Rating">#ca840a</color>
+    <color name="AddColor">#0d7306</color>
+    <color name="titleColor">#ffffff</color>
+    <color name="splashColor">#ffffff</color>
+    <color name="golden">#ffcc01</color>
+    <color name="grey">#c2b8b8</color>
+    <color name="splash">#FFFFFF</color>
+    <color name="gallery">#0e78e9</color>
+    <color name="custgallery">#bf4e4e4e</color>
+    <color name="activity">#bebcbc</color>
+    <color name="temp">#fdffffff</color>
+</resources>

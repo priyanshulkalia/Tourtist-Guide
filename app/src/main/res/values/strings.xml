@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chandigarh Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_splash">Chandigarh Tourism</string>
+    <string name="home_text">One of the most beautiful cities in India is Chandigarh.It was the dream city of our first prime minister of India Pt. Jawaharlal Nehru, and was planned by French architect Le Corbusier.Chandigarh and its surrounding areas constituted as union territory on November 1, 1966.It is the joint capital of Haryana and Punjab. The union territory covers an area of 114 sqkm.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_desc">DescActivity</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_google_places">Nearby Locations</string>
+    <string name="label_btn_find">Find</string>
+    <string name="title_activity_fav_desc">FavDesc</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home1"
+            android:icon="@drawable/icon_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/favorite"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="Favourites" />
+        <item
+            android:id="@+id/nearby"
+            android:icon="@drawable/nearby3"
+            android:title="Nearby Places" />
+        <item
+            android:id="@+id/hotels"
+            android:icon="@drawable/icon_res"
+            android:title="Restaurant/Hotels" />
+        <item
+            android:id="@+id/places"
+            android:icon="@drawable/icon_places"
+            android:title="Places to Visit" />
+        <item
+            android:id="@+id/entertainment"
+            android:icon="@drawable/icon_enter"
+            android:title="Entertainment" />
+        <item
+            android:id="@+id/shoping"
+            android:icon="@drawable/icon_shop"
+            android:title="Shopping" />
+        <item
+            android:id="@+id/saloon"
+            android:icon="@drawable/icon_spa"
+            android:title="Salon/Spa" />
+        <item
+            android:id="@+id/education"
+            android:icon="@drawable/icon_edu"
+            android:title="Education" />
+        <!--<item
+            android:id="@+id/jobs"
+            android:icon="@drawable/icon_job"
+            android:title="Jobs" />-->
+        <item
+            android:id="@+id/transport"
+            android:icon="@drawable/icon_trans"
+            android:title="Transport" />
+        <item
+            android:id="@+id/health"
+            android:icon="@drawable/icon_health"
+            android:title="Health" />
+        <item
+            android:id="@+id/help_desk"
+            android:icon="@drawable/icon_help"
+            android:title="Helpdesk" />
+        <item
+            android:id="@+id/service"
+            android:icon="@drawable/icon_service"
+            android:title="Sercvice Station" />
+    </group>
+
+  <!--  <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+-->
+</menu>
